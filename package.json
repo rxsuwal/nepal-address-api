@@ -1,0 +1,16 @@
+{
+  "name": "nepal-address-api",
+  "version": "1.0.0",
+  "description": "geo-political data of nepal in API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
